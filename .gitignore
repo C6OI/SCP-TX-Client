@@ -1,0 +1,7 @@
+tankix_Data/config/clientlocal/startup/
+
+logs/
+output_log.txt
+updatereport.xml
+
+*.backup

@@ -1,4 +1,3 @@
----
-initUrl: http://127.0.0.1:8080/config/init.yml
-stateUrl: http://127.0.0.1:8080/state/tankixprod_state.yml
-currentClientVersion: master-48606
+initUrl: http://play.scptx.tk:8080/config/init.yml
+stateUrl: http://play.scptx.tk:8080/state/tankixprod_state.yml
+currentClientVersion: SCP-3.1
