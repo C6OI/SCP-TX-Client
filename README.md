@@ -18,3 +18,6 @@ Links to the game server and discord server are soon
 
 **SCP-3.1**
 * Update `SCP-2` returned
+
+**SCP-4**
+* Removed hiding player nicknames in the matchmaking lobby
