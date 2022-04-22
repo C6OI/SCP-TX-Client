@@ -1,7 +1,9 @@
 ### Info
 This is a full client of the **SCP TX** project
 
-Links to the game server and discord server are soon
+Links to the game server and discord server are soon(?)
+
+If you want to do something in our project, please contact me. The link to my discord is in this repository
 
 ### Changelog
 
